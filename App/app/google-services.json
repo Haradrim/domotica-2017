@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "896429383178",
+    "project_id": "security-154415"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896429383178:android:93b36711bb1111dc",
+        "android_client_info": {
+          "package_name": "howest.nmct.be.securitysystel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896429383178-b74m6jm9n61g6qinagork53qo4m673qo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "howest.nmct.be.securitysystel",
+            "certificate_hash": "0A92C8E51546B8E315528E5B071BFE7539E4DB3F"
+          }
+        },
+        {
+          "client_id": "896429383178-rpe26uni0e9mu4soefd9dcsdrio8kova.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArjPafaPhla6BbfsQ5377AviwkGfWdUtY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896429383178:android:6fadda629b253268",
+        "android_client_info": {
+          "package_name": "howest.nmct.be.securitysystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896429383178-v6v6q5c7779kh8mkppoo8vukd2fu3m15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "howest.nmct.be.securitysystem",
+            "certificate_hash": "0A92C8E51546B8E315528E5B071BFE7539E4DB3F"
+          }
+        },
+        {
+          "client_id": "896429383178-rpe26uni0e9mu4soefd9dcsdrio8kova.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArjPafaPhla6BbfsQ5377AviwkGfWdUtY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+	{
+      "client_info": {
+        "mobilesdk_app_id": "1:896429383178:android:6fadda629b253268",
+        "android_client_info": {
+          "package_name": "howest.nmct.be.securitysystel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896429383178-ub2aqhtjlko86fccru8c4pkqrfi0h08e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "howest.nmct.be.securitysystem",
+            "certificate_hash": "0A92C8E51546B8E315528E5B071BFE7539E4DB3F"
+          }
+        },
+        {
+          "client_id": "896429383178-ub2aqhtjlko86fccru8c4pkqrfi0h08e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArjPafaPhla6BbfsQ5377AviwkGfWdUtY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+  ],
+  "configuration_version": "1"
+}

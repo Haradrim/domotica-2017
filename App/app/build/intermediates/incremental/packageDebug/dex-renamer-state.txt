@@ -1,0 +1,7 @@
+#Sat Jan 07 14:56:00 CET 2017
+base.0=C\:\\Users\\sander\\Documents\\School 2016-2017\\Domotica\\Project\\SecuritySystem\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0b0247bb3150dc6e99b8a2e3f4dcc4387b93521f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\sander\\Documents\\School 2016-2017\\Domotica\\Project\\SecuritySystem\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_84367765228023b9cb3121a1e66f66ed8ec88648\\classes.dex
+base.1=C\:\\Users\\sander\\Documents\\School 2016-2017\\Domotica\\Project\\SecuritySystem\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_84367765228023b9cb3121a1e66f66ed8ec88648
+file.0=C\:\\Users\\sander\\Documents\\School 2016-2017\\Domotica\\Project\\SecuritySystem\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0b0247bb3150dc6e99b8a2e3f4dcc4387b93521f\\classes.dex

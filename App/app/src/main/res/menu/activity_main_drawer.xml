@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_lock_open_24dp"
+            android:title="Login codes" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_settings_input_antenna_24dp"
+            android:title="Commands" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_vpn_key_24dp"
+            android:title="All codes" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send new code" />
+        </menu>
+    </item>
+
+</menu>
